@@ -1,4 +1,6 @@
-﻿using System.Reflection;
+//to obtain proper credentials please visit www.integratepayments.com
+
+using System.Reflection;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
